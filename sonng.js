@@ -6,7 +6,7 @@
 
 [rewrite_local]
 
-^https:\/\/bzpp2\.iwzbz\.com\/api\/v1\.1\/user\/getpwnewios_v url script-response-body https://raw.githubusercontent.com/laosuyo/Quantumult-X/main/zhouyi.js
+^https:\/\/bzpp2\.iwzbz\.com\/api\/v1\.1\/user\/getpwnewios_v url script-response-body https://raw.githubusercontent.com/oosjdhdhd/qx/main/sonng.js
 
 [mitm] 
 
