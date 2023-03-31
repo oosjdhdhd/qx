@@ -24,6 +24,6 @@ hostname = gjyklslb.mantianfei.net
 ****************************************/
 
 
-body = $response.body.replace(/\"num":\d+/g, '\"num" :99999999')
+body = $response.body.replace(/\"num":\d+/g, '\"num" :99999')
 
 $done({body});
